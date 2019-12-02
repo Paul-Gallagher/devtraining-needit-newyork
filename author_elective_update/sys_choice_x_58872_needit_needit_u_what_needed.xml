@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2019-12-02 11:06:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>87351e79db8b1304cbf6d5b0cf961949</instance_id>
+        <instance_name>dev63419</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2019-12-02 11:06:47</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>f8aa97301b1d4010da7031d7dc4bcb1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 11:06:47</sys_created_on>
+        <sys_id>8fbad7941bad4c10da7031d7dc4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ec64a98f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 11:06:47</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>0bbad794abad4c101da0161320e1e3fa</update_guid>
+        <update_guid_history>0bbad794abad4c101da0161320e1e3fa:-429457270,4fbad7947aad4c100b5427749a7dc3f6:739003509,47bad79499ad4c10abd8674daa6be6f3:-160287246,4fbad794d5ad4c10547e96af44ddc0ef:-1210443264,47bad794baad4c10b4565844bf8304ec:553137521,4fbad79424ad4c10ae80cc25e20c7ae8:1573362859,47bad79421ad4c104e03385978ac9de5:-1403550012,4fbad79422ad4c10e1993b812c7eade1:1327410144,f247fbfc465d4010408d3b58abc5ece6:-1635139169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 11:06:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>90ca5b941bad4c10da7031d7dc4bcb9d</sys_id>
+        <sys_metadata>90ca5b941bad4c10da7031d7dc4bcb9d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">8fbad7941bad4c10da7031d7dc4bcbfa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 11:06:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
